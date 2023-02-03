@@ -1,6 +1,8 @@
-# openWrt SNAPSHOT 1Gbit
+# openwrt SNAPSHOT 1Gbit
 # Created from the master February 1 2023 for the Netgear Wax206 to flash onto the router 
 # Was created with the huge help of the community at openwrt and the very skillfulled people there at
+# https://github.com/openwrt/openwrt/pull/11363
+# and
 # https://forum.openwrt.org/t/openwrt-support-for-wax206/127523/275
 #
 # Date of compile is February 2 2023
